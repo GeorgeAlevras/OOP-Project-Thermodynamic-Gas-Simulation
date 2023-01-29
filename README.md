@@ -1,9 +1,5 @@
 # OOP Project - Investigating Thermodynamic Systems with a 2D Simulation of a Gas #
 
-Author: George Alevras \
-Date: 13/12/2019
-
-## Description ##
 This was my coursework for Year 2 Computing Labs - obtaining a grade of 75%. The project involved making a 2D simulation of a gas using Object-Oriented Programming (OOP) in Python. The simulation was run with scripts to ensure it follows physical limits and to derive fundamental thermodynamic equations for non-ideal gas systems. The accuracy of OOP in simulating this thermodynamic system was also explored.
 
 ## Organisation ##
@@ -16,5 +12,5 @@ The repository contains:
 - A file that tests the simulation for a gas with 'balls' the size of 2 hydrogen atoms `./pressure_laws_H2.py`
 - A file that produces plots that show specfic aspects of the simulation to check how OOP is implemented in the context of this gas simulation `./plotting.py`
 - A file that tests the simulation for a gas testing VanDerWaals conditions `./vanderwaals.py`
-- A folder containing all the graphs produced and shown in the coursework report `./Final Graphs`
-- A folder containing graphs produced from preliminary experiments of the simulation `./Old Files`
+- A folder containing all the graphs produced and shown in the coursework report `./final_graphs`
+- A folder containing graphs produced from preliminary experiments of the simulation `./previous_trials`
