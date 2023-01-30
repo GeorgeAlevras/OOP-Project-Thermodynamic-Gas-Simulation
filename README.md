@@ -12,5 +12,5 @@ The repository contains:
 - A file that tests the simulation for a gas with 'balls' the size of 2 hydrogen atoms `./pressure_laws_H2.py`
 - A file that produces plots that show specfic aspects of the simulation to check how OOP is implemented in the context of this gas simulation `./plotting.py`
 - A file that tests the simulation for a gas testing VanDerWaals conditions `./vanderwaals.py`
-- A folder containing all the graphs produced and shown in the coursework report `./final_graphs`
-- A folder containing graphs produced from preliminary experiments of the simulation `./previous_trials`
+- A directory containing all the graphs produced and shown in the coursework report `./final_graphs`
+- A directory containing graphs produced from preliminary experiments of the simulation `./previous_trials`
